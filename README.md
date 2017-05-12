@@ -4,7 +4,7 @@
 NewsApp
 
 ### App Icon: 
-![Alt text](NewsApp/Assets.xcassets/AppIcon.appiconset/News_Icon-20@3x.png)
+![Alt text](NewsApp/NewsApp/Assets.xcassets/AppIcon.appiconset/News_Icon-20@3x.png)
 
 ### Purpose: 
 Keep the user updated with the latest news from different news sources 
